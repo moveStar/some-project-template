@@ -1,0 +1,22 @@
+# Ignore artifacts:
+build
+coverage
+
+# Ignore all HTML files:
+*.html
+
+**/*.svg
+**/*.ico
+package.json
+package-lock.json
+/dist
+.DS_Store
+.eslintignore
+*.png
+.editorconfig
+.gitignore
+.prettierignore
+.eslintcache
+*.lock
+yarn-error.log
+**/node_modules/**
